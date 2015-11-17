@@ -1,0 +1,28 @@
+{
+  "name": "video-boy",
+  "version": "1.0.0",
+  "description": "A tool to parse and download online videos",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skygragon/video-boy.git"
+  },
+  "keywords": [
+    "video",
+    "parse",
+    "download"
+  ],
+  "author": "Eric Wang <skygragon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skygragon/video-boy/issues"
+  },
+  "homepage": "https://github.com/skygragon/video-boy#readme"
+}
